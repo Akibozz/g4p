@@ -1,0 +1,20 @@
+2022-12-13T12:17:44+00:00 CRITICAL Uncaught Error: Call to undefined function git_updater_upload() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:3
+Stack trace:
+#0 /home/gravit04/public_html/wp-settings.php(585): include()
+#1 /home/gravit04/public_html/wp-config.php(98): require_once('/home/gravit04/...')
+#2 /home/gravit04/public_html/wp-load.php(50): require_once('/home/gravit04/...')
+#3 /home/gravit04/public_html/wp-blog-header.php(13): require_once('/home/gravit04/...')
+#4 /home/gravit04/public_html/index.php(17): require('/home/gravit04/...')
+#5 {main}
+  thrown v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 3
+
+2022-12-13T12:18:47+00:00 CRITICAL Uncaught Error: Call to undefined function git_updater_upload() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:3
+Stack trace:
+#0 /home/gravit04/public_html/wp-settings.php(585): include()
+#1 /home/gravit04/public_html/wp-config.php(98): require_once('/home/gravit04/...')
+#2 /home/gravit04/public_html/wp-load.php(50): require_once('/home/gravit04/...')
+#3 /home/gravit04/public_html/wp-blog-header.php(13): require_once('/home/gravit04/...')
+#4 /home/gravit04/public_html/index.php(17): require('/home/gravit04/...')
+#5 {main}
+  thrown v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 3
+

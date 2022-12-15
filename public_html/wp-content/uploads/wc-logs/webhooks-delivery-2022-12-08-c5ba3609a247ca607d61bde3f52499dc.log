@@ -1,0 +1,156 @@
+2022-12-08T14:41:59+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 607f86346ec059cc1cb88c78059f0386
+            [Date] => Dec 8, 2022 @ 14:41
+            [URL] => https://main.metakocka.si/rest/eshop/v1/woocommerceWebHook?eshop_sync_id=140500000100
+            [Duration] => 3.79742
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/7.1.1 Hookshot (WordPress/6.1.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://gravity4pets.com/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => 1Dph/vKVxA1N//2CHQY554/e8iK5CTguM8A7T2Jx7sM=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => 607f86346ec059cc1cb88c78059f0386
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx/1.22.0
+                                    [date] => Thu, 08 Dec 2022 14:41:59 GMT
+                                    [content-type] => application/json
+                                    [strict-transport-security] => max-age=63072000
+                                    [x-frame-options] => SAMEORIGIN
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2022-12-08T14:42:00+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 13bcd237c3d1ebc54d3a6b80f957a45d
+            [Date] => Dec 8, 2022 @ 14:42
+            [URL] => https://main.metakocka.si/rest/eshop/v1/woocommerceWebHook?eshop_sync_id=140500000100
+            [Duration] => 1.57264
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/7.1.1 Hookshot (WordPress/6.1.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://gravity4pets.com/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 1Dph/vKVxA1N//2CHQY554/e8iK5CTguM8A7T2Jx7sM=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => 13bcd237c3d1ebc54d3a6b80f957a45d
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx/1.22.0
+                                    [date] => Thu, 08 Dec 2022 14:42:00 GMT
+                                    [content-type] => application/json
+                                    [strict-transport-security] => max-age=63072000
+                                    [x-frame-options] => SAMEORIGIN
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2022-12-08T14:57:56+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => e694802b052634278e07e03cc2cecc5f
+            [Date] => Dec 8, 2022 @ 14:57
+            [URL] => https://main.metakocka.si/rest/eshop/v1/woocommerceWebHook?eshop_sync_id=140500000100
+            [Duration] => 7.39169
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/7.1.1 Hookshot (WordPress/6.1.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://gravity4pets.com/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => +PQiV3xZZT2xHvEnOjhI066bFA7zPcE2xm5mzawGu/g=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => e694802b052634278e07e03cc2cecc5f
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx/1.22.0
+                                    [date] => Thu, 08 Dec 2022 14:57:56 GMT
+                                    [content-type] => application/json
+                                    [strict-transport-security] => max-age=63072000
+                                    [x-frame-options] => SAMEORIGIN
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+

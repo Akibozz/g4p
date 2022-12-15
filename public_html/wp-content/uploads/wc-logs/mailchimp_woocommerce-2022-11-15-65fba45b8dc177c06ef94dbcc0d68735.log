@@ -1,0 +1,224 @@
+2022-11-15T11:55:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 7
+2022-11-15T11:55:14+00:00 NOTICE member.sync :: branimir.miklobusec@gmail.com is Pending Double OptIn
+2022-11-15T11:56:40+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 1
+    [user_id] => 7
+    [gdpr_fields] => 
+)
+
+2022-11-15T11:56:40+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 7
+2022-11-15T11:56:42+00:00 NOTICE member.sync :: Updated Member branimir.miklobusec@gmail.com :: Array
+(
+    [previous_status] => transactional
+    [status] => 1
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Brane
+            [LNAME] => Miklobušec
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-11-15T11:56:46+00:00 NOTICE webhook :: Subscriber Sync :: subscribe :: branimir.miklobusec@gmail.com :: Array
+(
+    [subscribed] => 1
+    [user_id] => 7
+)
+
+2022-11-15T11:57:57+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1288
+2022-11-15T12:00:19+00:00 NOTICE promo_code_submit.success :: #1288 :: code: dogwork20
+2022-11-15T12:02:19+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1288
+2022-11-15T12:03:24+00:00 NOTICE promo_code_submit.success :: #1288 :: code: dogwork20
+2022-11-15T12:03:31+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2022-11-15T12:03:39+00:00 NOTICE member.sync :: lealeskosek@gmail.com is Pending Double OptIn
+2022-11-15T12:03:54+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 
+    [user_id] => 8
+    [gdpr_fields] => 
+)
+
+2022-11-15T12:03:54+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2022-11-15T12:04:58+00:00 NOTICE member.sync :: Updated Member lealeskosek@gmail.com :: Array
+(
+    [previous_status] => transactional
+    [status] => 
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Lea
+            [LNAME] => Miklobušec
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-11-15T12:13:28+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 1
+    [user_id] => 4
+    [gdpr_fields] => 
+)
+
+2022-11-15T12:13:28+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 4
+2022-11-15T12:13:45+00:00 NOTICE member.sync :: Updated Member gm2.miklobusec@gmail.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-11-15T12:14:12+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 1
+    [user_id] => 4
+    [gdpr_fields] => 
+)
+
+2022-11-15T12:14:12+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 4
+2022-11-15T12:14:14+00:00 NOTICE member.sync :: Updated Member gm2.miklobusec@gmail.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-11-15T12:15:51+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 1
+    [user_id] => 4
+    [gdpr_fields] => 
+)
+
+2022-11-15T12:15:51+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 4
+2022-11-15T12:15:52+00:00 NOTICE member.sync :: Updated Member gm2.miklobusec@gmail.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-11-15T12:50:08+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 
+    [user_id] => 8
+    [gdpr_fields] => 
+)
+
+2022-11-15T12:50:08+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2022-11-15T12:50:24+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 1
+    [user_id] => 7
+    [gdpr_fields] => 
+)
+
+2022-11-15T12:50:24+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 7
+2022-11-15T12:50:42+00:00 NOTICE member.sync :: Updated Member lealeskosek@gmail.com :: Array
+(
+    [previous_status] => transactional
+    [status] => 
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Lea
+            [LNAME] => Miklobušec
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-11-15T12:50:43+00:00 NOTICE member.sync :: Updated Member branimir.miklobusec@gmail.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Brane
+            [LNAME] => Miklobušec
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-11-15T12:50:51+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1289
+2022-11-15T12:50:55+00:00 NOTICE promo_code_submit.success :: #1289 :: code: lepovzgojenpes20
+2022-11-15T12:51:32+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1289
+2022-11-15T12:51:38+00:00 NOTICE promo_code_submit.success :: #1289 :: code: lepovzgojenpes20
+2022-11-15T13:12:51+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 1
+    [user_id] => 7
+    [gdpr_fields] => 
+)
+
+2022-11-15T13:12:51+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 7
+2022-11-15T13:13:39+00:00 NOTICE member.sync :: Updated Member branimir.miklobusec@gmail.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Brane
+            [LNAME] => Miklobušec
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-11-15T13:17:50+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 
+    [user_id] => 8
+    [gdpr_fields] => 
+)
+
+2022-11-15T13:17:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2022-11-15T13:18:57+00:00 NOTICE member.sync :: Updated Member lealeskosek@gmail.com :: Array
+(
+    [previous_status] => transactional
+    [status] => 
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Lea
+            [LNAME] => Miklobušec
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-11-15T13:20:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2022-11-15T13:21:08+00:00 NOTICE member.sync :: Updated Member gm.miklobusec@gmail.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Tadej
+            [LNAME] => Miklobušec
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-11-15T14:49:57+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 10a50cf5ab2bf91b7687c704de2dc69b
+2022-11-15T14:50:49+00:00 NOTICE abandoned_cart.success :: email: gm2.miklobusec@gmail.com :: checkout_url: https://gravity4pets.com/narocilo/?mc_cart_id=10a50cf5ab2bf91b7687c704de2dc69b
+2022-11-15T14:50:50+00:00 NOTICE cart.member.updated :: Updated gm2.miklobusec@gmail.com subscriber status to subscribed and language to sl
+2022-11-15T14:51:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1288
+2022-11-15T14:51:46+00:00 NOTICE promo_code_submit.success :: #1288 :: code: dogwork20

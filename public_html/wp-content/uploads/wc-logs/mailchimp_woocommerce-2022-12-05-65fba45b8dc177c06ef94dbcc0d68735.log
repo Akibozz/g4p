@@ -1,0 +1,116 @@
+2022-12-05T11:26:38+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 2e94c084ad9dc18f784aab8a5037223f
+2022-12-05T11:29:32+00:00 NOTICE abandoned_cart.success :: email: rojc.katarina@gmail.com :: checkout_url: https://gravity4pets.com/narocilo/?mc_cart_id=2e94c084ad9dc18f784aab8a5037223f
+2022-12-05T11:29:33+00:00 NOTICE cart.member.updated :: Updated rojc.katarina@gmail.com subscriber status to transactional and language to sl
+2022-12-05T11:33:28+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 5
+2022-12-05T11:33:28+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1474
+2022-12-05T11:33:30+00:00 NOTICE debug :: Order ID 1474 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2022-12-05T11:33:40+00:00 NOTICE member.sync :: Updated Member rojc.katarina@gmail.com :: Array
+(
+    [previous_status] => transactional
+    [status] => 
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => KATARINA
+            [LNAME] => ROJC
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-12-05T12:13:58+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2022-12-05T12:13:58+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1477
+2022-12-05T12:14:00+00:00 NOTICE debug :: Order ID 1477 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2022-12-05T12:20:32+00:00 NOTICE member.sync :: Updated Member gm.miklobusec@gmail.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Tadej
+            [LNAME] => Miklobušec
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-12-05T16:11:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2022-12-05T16:11:54+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1478
+2022-12-05T16:11:57+00:00 NOTICE member.sync :: Updated Member gm.miklobusec@gmail.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Tadej
+            [LNAME] => Miklobušec
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-12-05T16:11:59+00:00 NOTICE debug :: Order ID 1478 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => 
+        )
+
+)
+
+2022-12-05T16:14:18+00:00 NOTICE order.member.updated :: Updated gm.miklobusec@gmail.com subscriber status to subscribed and language to sl
+2022-12-05T16:14:18+00:00 NOTICE order_submit.success :: addStoreOrder :: #1478 :: email: gm.miklobusec@gmail.com
+2022-12-05T16:25:58+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2022-12-05T16:25:58+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1479
+2022-12-05T16:25:59+00:00 NOTICE debug :: Order ID 1479 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => 
+        )
+
+)
+
+2022-12-05T16:27:11+00:00 NOTICE member.sync :: Updated Member gm.miklobusec@gmail.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Tadej
+            [LNAME] => Miklobušec
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-12-05T16:28:39+00:00 NOTICE order.member.updated :: Updated gm.miklobusec@gmail.com subscriber status to subscribed and language to sl
+2022-12-05T16:28:39+00:00 NOTICE order_submit.success :: addStoreOrder :: #1479 :: email: gm.miklobusec@gmail.com
+2022-12-05T22:15:34+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2022-12-05T22:15:41+00:00 NOTICE member.sync :: Updated Member gm.miklobusec@gmail.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Tadej
+            [LNAME] => Miklobušec
+        )
+
+    [gdpr_fields] => 
+)
+

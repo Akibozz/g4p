@@ -1,0 +1,283 @@
+2022-12-06T18:55:06+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/gravit04/public_html/wp-content/themes/astra/functions.php:216
+Stack trace:
+#0 /home/gravit04/public_html/wp-settings.php(585): include()
+#1 /home/gravit04/public_html/wp-config.php(98): require_once('/home/gravit04/...')
+#2 /home/gravit04/public_html/wp-load.php(50): require_once('/home/gravit04/...')
+#3 /home/gravit04/public_html/wp-admin/admin.php(34): require_once('/home/gravit04/...')
+#4 /home/gravit04/public_html/wp-admin/theme-editor.php(10): require_once('/home/gravit04/...')
+#5 {main}
+  thrown v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 216
+
+2022-12-06T19:24:55+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/gravit04/public_html/wp-content/plugins/woocommerce-upn-1.0.0/index.php:45
+Stack trace:
+#0 /home/gravit04/public_html/wp-content/plugins/woocommerce-upn-1.0.0/index.php(154): WooCart\UPNalog\UPN->genUPN(NULL)
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): WooCart\UPNalog\UPN->upn_page(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#2 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/order/order-details-customer.php(64): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#6 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/order/order-detail v /home/gravit04/public_html/wp-content/plugins/woocommerce-upn-1.0.0/index.php v vrstici 45
+
+2022-12-06T19:25:01+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/gravit04/public_html/wp-content/plugins/woocommerce-upn-1.0.0/index.php:45
+Stack trace:
+#0 /home/gravit04/public_html/wp-content/plugins/woocommerce-upn-1.0.0/index.php(154): WooCart\UPNalog\UPN->genUPN(NULL)
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): WooCart\UPNalog\UPN->upn_page(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#2 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/order/order-details-customer.php(64): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#6 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/order/order-detail v /home/gravit04/public_html/wp-content/plugins/woocommerce-upn-1.0.0/index.php v vrstici 45
+
+2022-12-06T21:37:07+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 227
+
+2022-12-06T21:37:13+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 227
+
+2022-12-06T21:37:20+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 227
+
+2022-12-06T21:37:24+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 227
+
+2022-12-06T21:37:29+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 227
+
+2022-12-06T21:37:44+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 227
+
+2022-12-06T21:40:41+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 227
+
+2022-12-06T21:49:24+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:226
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 226
+
+2022-12-06T21:49:28+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:226
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 226
+
+2022-12-06T21:52:08+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:226
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 226
+
+2022-12-06T21:55:36+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_variables() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:226
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/p v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 226
+
+2022-12-06T21:55:42+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_variables() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:226
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/p v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 226
+
+2022-12-06T21:55:43+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_variables() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:226
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/p v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 226
+
+2022-12-06T22:41:25+00:00 CRITICAL Uncaught Error: Call to undefined function Woo_Variation_Swatches_frontend() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/pu v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 227
+
+2022-12-06T22:41:29+00:00 CRITICAL Uncaught Error: Call to undefined function Woo_Variation_Swatches_frontend() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/pu v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 227
+
+2022-12-06T22:42:35+00:00 CRITICAL Uncaught Error: Call to undefined function Woo_Variation_Swatches_frontend() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/pu v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 227
+
+2022-12-06T22:44:08+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 227
+
+2022-12-06T22:45:26+00:00 CRITICAL Uncaught Error: Call to undefined function Woo_Variation_Swatches_Frontend() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/pu v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 227
+
+2022-12-06T22:45:31+00:00 CRITICAL Uncaught Error: Call to undefined function Woo_Variation_Swatches_Frontend() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/pu v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 227
+
+2022-12-06T22:49:03+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_variables() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:229
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/p v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 229
+
+2022-12-06T22:50:33+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_variable_items() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:228
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravi v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 228
+
+2022-12-06T22:50:39+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_variable_items() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:228
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravi v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 228
+
+2022-12-06T22:52:51+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_variable_items() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:228
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravi v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 228
+

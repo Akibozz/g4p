@@ -1,0 +1,197 @@
+2022-11-23T13:33:13+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1372
+2022-11-23T13:33:18+00:00 NOTICE promo_code_submit.success :: #1372 :: code: g4p20k
+2022-11-23T13:34:26+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1373
+2022-11-23T13:34:28+00:00 NOTICE promo_code_submit.success :: #1373 :: code: g4p20d
+2022-11-23T13:34:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1373
+2022-11-23T13:34:53+00:00 NOTICE promo_code_submit.success :: #1373 :: code: g4p20d
+2022-11-23T13:35:24+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1374
+2022-11-23T13:35:30+00:00 NOTICE promo_code_submit.success :: #1374 :: code: g4p20n
+2022-11-23T13:36:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1375
+2022-11-23T13:37:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1376
+2022-11-23T13:37:40+00:00 NOTICE promo_code_submit.success :: #1375 :: code: g4pdj20
+2022-11-23T13:37:41+00:00 NOTICE promo_code_submit.success :: #1376 :: code: g4pknw20
+2022-11-23T13:37:41+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1377
+2022-11-23T13:37:49+00:00 NOTICE promo_code_submit.success :: #1377 :: code: g4pak20
+2022-11-23T13:37:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1378
+2022-11-23T13:38:26+00:00 NOTICE promo_code_submit.success :: #1378 :: code: g4pbt20
+2022-11-23T13:38:30+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1379
+2022-11-23T13:38:50+00:00 NOTICE promo_code_submit.success :: #1379 :: code: g4psp20
+2022-11-23T13:39:00+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1380
+2022-11-23T13:39:26+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1381
+2022-11-23T13:39:41+00:00 NOTICE promo_code_submit.success :: #1380 :: code: g4pap20
+2022-11-23T13:39:42+00:00 NOTICE promo_code_submit.success :: #1381 :: code: g4pgj20
+2022-11-23T13:39:49+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1380
+2022-11-23T13:39:50+00:00 NOTICE promo_code_submit.success :: #1380 :: code: g4pap20
+2022-11-23T13:40:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1379
+2022-11-23T13:40:30+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1378
+2022-11-23T13:40:40+00:00 NOTICE promo_code_submit.success :: #1379 :: code: staša pelko
+2022-11-23T13:40:41+00:00 NOTICE promo_code_submit.success :: #1378 :: code: g4pbt20
+2022-11-23T13:40:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1377
+2022-11-23T13:40:53+00:00 NOTICE promo_code_submit.success :: #1377 :: code: g4pak20
+2022-11-23T13:41:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1376
+2022-11-23T13:41:23+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1375
+2022-11-23T13:41:38+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1374
+2022-11-23T13:41:38+00:00 NOTICE promo_code_submit.success :: #1376 :: code: g4pknw20
+2022-11-23T13:41:39+00:00 NOTICE promo_code_submit.success :: #1375 :: code: g4pdj20
+2022-11-23T13:41:39+00:00 NOTICE promo_code_submit.success :: #1374 :: code: g4p20n
+2022-11-23T13:41:54+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1373
+2022-11-23T13:41:55+00:00 NOTICE promo_code_submit.success :: #1373 :: code: g4p20d
+2022-11-23T13:42:12+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1372
+2022-11-23T13:42:31+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1357
+2022-11-23T13:42:39+00:00 NOTICE promo_code_submit.success :: #1372 :: code: g4p20k
+2022-11-23T13:42:39+00:00 NOTICE promo_code_submit.success :: #1357 :: code: g4p15
+2022-11-23T13:42:50+00:00 NOTICE promo_code.deleted :: deleted promo code 644
+2022-11-23T13:43:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1289
+2022-11-23T13:43:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1288
+2022-11-23T13:43:39+00:00 NOTICE promo_code_submit.success :: #1289 :: code: lepovzgojenpes20
+2022-11-23T13:43:40+00:00 NOTICE promo_code_submit.success :: #1288 :: code: dogwork20
+2022-11-23T13:43:44+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1379
+2022-11-23T13:45:20+00:00 NOTICE promo_code_submit.success :: #1379 :: code: g4psp20
+2022-11-23T13:58:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1381
+2022-11-23T13:58:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1380
+2022-11-23T13:58:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1379
+2022-11-23T13:58:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1378
+2022-11-23T13:58:40+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1374
+2022-11-23T13:58:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1376
+2022-11-23T13:58:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1377
+2022-11-23T13:58:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1375
+2022-11-23T13:58:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1372
+2022-11-23T13:58:48+00:00 NOTICE promo_code_submit.success :: #1381 :: code: g4pgj20
+2022-11-23T13:58:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1373
+2022-11-23T13:59:09+00:00 NOTICE promo_code_submit.success :: #1380 :: code: g4pap20
+2022-11-23T13:59:14+00:00 NOTICE promo_code_submit.success :: #1379 :: code: g4psp20
+2022-11-23T13:59:25+00:00 NOTICE promo_code_submit.success :: #1378 :: code: g4pbt20
+2022-11-23T13:59:35+00:00 ERROR promo_code_submit.error :: error updating promo rule #1374 :: code g4p20n :: Error Code 400 :: A promo code for store '6327553b23314' with the promo_rule_id '1374' and promo_code_id '1374' already exists. on 2435 in /home/gravit04/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2022-11-23T13:59:38+00:00 NOTICE promo_code_submit.success :: #1376 :: code: g4pknw20
+2022-11-23T13:59:54+00:00 NOTICE promo_code_submit.success :: #1377 :: code: g4pak20
+2022-11-23T13:59:56+00:00 NOTICE promo_code_submit.success :: #1375 :: code: g4pdj20
+2022-11-23T13:59:59+00:00 NOTICE promo_code_submit.success :: #1372 :: code: g4p20k
+2022-11-23T14:00:00+00:00 NOTICE promo_code_submit.success :: #1373 :: code: g4p20d
+2022-11-23T14:00:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 1377
+2022-11-23T14:00:43+00:00 NOTICE promo_code_submit.success :: #1377 :: code: g4pak20
+2022-11-23T15:55:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 754
+2022-11-23T15:55:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 755
+2022-11-23T15:55:39+00:00 NOTICE product_submit.success :: updateStoreProduct :: #754
+2022-11-23T15:55:40+00:00 NOTICE product_submit.success :: updateStoreProduct :: #755
+2022-11-23T15:57:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 758
+2022-11-23T15:57:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 759
+2022-11-23T15:57:21+00:00 NOTICE product_submit.success :: updateStoreProduct :: #758
+2022-11-23T15:57:22+00:00 NOTICE product_submit.success :: updateStoreProduct :: #759
+2022-11-23T15:57:25+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 759
+2022-11-23T15:57:53+00:00 NOTICE product_submit.success :: updateStoreProduct :: #759
+2022-11-23T15:58:23+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 756
+2022-11-23T15:58:23+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 757
+2022-11-23T15:59:37+00:00 NOTICE product_submit.success :: updateStoreProduct :: #756
+2022-11-23T15:59:37+00:00 NOTICE product_submit.success :: updateStoreProduct :: #757
+2022-11-23T16:02:00+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2022-11-23T16:02:00+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1384
+2022-11-23T16:02:02+00:00 NOTICE debug :: Order ID 1384 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2022-11-23T16:03:25+00:00 NOTICE member.sync :: Updated Member gm.miklobusec@gmail.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Tadej
+            [LNAME] => Miklobušec
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-11-23T16:05:29+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 757
+2022-11-23T16:05:43+00:00 NOTICE product_submit.success :: updateStoreProduct :: #757
+2022-11-23T16:06:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2022-11-23T16:06:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1385
+2022-11-23T16:06:03+00:00 NOTICE debug :: Order ID 1385 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2022-11-23T16:07:40+00:00 NOTICE member.sync :: Updated Member gm.miklobusec@gmail.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Tadej
+            [LNAME] => Miklobušec
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-11-23T16:10:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 756
+2022-11-23T16:11:39+00:00 NOTICE product_submit.success :: updateStoreProduct :: #756
+2022-11-23T16:17:29+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 757
+2022-11-23T16:17:44+00:00 NOTICE product_submit.success :: updateStoreProduct :: #757
+2022-11-23T16:26:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 30
+2022-11-23T16:26:18+00:00 NOTICE product_submit.success :: updateStoreProduct :: #30
+2022-11-23T16:30:34+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 30
+2022-11-23T16:30:46+00:00 NOTICE product_submit.success :: updateStoreProduct :: #30
+2022-11-23T16:31:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2022-11-23T16:31:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1386
+2022-11-23T16:31:10+00:00 NOTICE debug :: Order ID 1386 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2022-11-23T16:32:59+00:00 NOTICE member.sync :: Updated Member gm.miklobusec@gmail.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Tadej
+            [LNAME] => Miklobušec
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-11-23T16:55:02+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 
+    [user_id] => 5
+    [gdpr_fields] => 
+)
+
+2022-11-23T16:55:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 5
+2022-11-23T16:57:19+00:00 NOTICE member.sync :: Updated Member rojc.katarina@gmail.com :: Array
+(
+    [previous_status] => transactional
+    [status] => 
+    [language] => 
+    [merge_fields] => Array
+        (
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-11-23T17:27:26+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1386
+2022-11-23T17:27:27+00:00 NOTICE debug :: Order ID 1386 was on-hold and is now processing :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2022-11-23T17:28:24+00:00 NOTICE debug :: Order ID 1386 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2022-11-23T17:31:54+00:00 NOTICE order.member.updated :: Updated gm.miklobusec@gmail.com subscriber status to subscribed and language to 
+2022-11-23T17:31:54+00:00 NOTICE order_submit.success :: addStoreOrder :: #1386 :: email: gm.miklobusec@gmail.com
+2022-11-23T22:02:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 756
+2022-11-23T22:02:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 757
+2022-11-23T22:05:17+00:00 NOTICE product_submit.success :: updateStoreProduct :: #756
+2022-11-23T22:05:18+00:00 NOTICE product_submit.success :: updateStoreProduct :: #757

@@ -1,0 +1,21 @@
+2022-11-28T09:53:57+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 2e94c084ad9dc18f784aab8a5037223f
+2022-11-28T09:54:02+00:00 NOTICE abandoned_cart.success :: email: rojc.katarina@gmail.com :: checkout_url: https://gravity4pets.com/narocilo/?mc_cart_id=2e94c084ad9dc18f784aab8a5037223f
+2022-11-28T09:54:02+00:00 NOTICE cart.member.updated :: Updated rojc.katarina@gmail.com subscriber status to transactional and language to sl
+2022-11-28T13:20:04+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 756
+2022-11-28T13:20:04+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 757
+2022-11-28T13:20:19+00:00 NOTICE product_submit.success :: updateStoreProduct :: #756
+2022-11-28T13:20:20+00:00 NOTICE product_submit.success :: updateStoreProduct :: #757
+2022-11-28T22:49:49+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2022-11-28T22:50:41+00:00 NOTICE member.sync :: Updated Member gm.miklobusec@gmail.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Tadej
+            [LNAME] => Miklobušec
+        )
+
+    [gdpr_fields] => 
+)
+

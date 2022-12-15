@@ -1,0 +1,5 @@
+2022-12-13T14:22:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 2e94c084ad9dc18f784aab8a5037223f
+2022-12-13T14:24:24+00:00 NOTICE abandoned_cart.success :: email: rojc.katarina@gmail.com :: checkout_url: https://gravity4pets.com/narocilo/?mc_cart_id=2e94c084ad9dc18f784aab8a5037223f
+2022-12-13T14:24:24+00:00 NOTICE cart.member.updated :: Updated rojc.katarina@gmail.com subscriber status to transactional and language to sl
+2022-12-13T15:05:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 2e94c084ad9dc18f784aab8a5037223f
+2022-12-13T15:05:36+00:00 NOTICE abandoned_cart.success :: email: rojc.katarina@gmail.com :: checkout_url: https://gravity4pets.com/narocilo/?mc_cart_id=2e94c084ad9dc18f784aab8a5037223f

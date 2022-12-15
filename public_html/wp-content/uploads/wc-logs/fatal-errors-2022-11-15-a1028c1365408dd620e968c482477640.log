@@ -1,0 +1,12 @@
+2022-11-15T10:16:30+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in /home/gravit04/public_html/wp-includes/pluggable.php:70) v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 206
+
+2022-11-15T12:08:01+00:00 CRITICAL Uncaught Error: Function name must be a string in /home/gravit04/public_html/wp-content/themes/astra/functions.php:219
+Stack trace:
+#0 /home/gravit04/public_html/wp-settings.php(585): include()
+#1 /home/gravit04/public_html/wp-config.php(98): require_once('/home/gravit04/...')
+#2 /home/gravit04/public_html/wp-load.php(50): require_once('/home/gravit04/...')
+#3 /home/gravit04/public_html/wp-admin/admin.php(34): require_once('/home/gravit04/...')
+#4 /home/gravit04/public_html/wp-admin/theme-editor.php(10): require_once('/home/gravit04/...')
+#5 {main}
+  thrown v /home/gravit04/public_html/wp-content/themes/astra/functions.php v vrstici 219
+
