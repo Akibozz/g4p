@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="sl-si" dir="ltr">
+
+<head>
+<title>domovanje.com - NVMe SSD spletno gostovanje</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="shortcut icon" href="https://www.domovanje.com/_cache/rsklan/structureB/thumb/favico.ico" type="image/vnd.microsoft.icon" />
+	<link rel="icon" href="https://www.domovanje.com/_cache/rsklan/structureB/thumb/favico.ico" type="image/vnd.microsoft.icon" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+<link rel="icon" 
+      type="image/png" 
+      href="https://www.domovanje.com/_cache/rsklan/structureB/thumb/favico.ico">
+<link href="https://bazaznanja.controlpanel.si/skeleton/domovanje_custom-css.css" rel="stylesheet">
+
+<style>
+.content{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.btn-danger {
+    color: #fff;
+    background-color: #ec1c24;
+    border-color: #dc3545;
+}
+.cont-grey {
+    background: #e8e8e8;
+    padding: 50px;
+    margin-bottom: 20px;
+}
+
+.display-3 {
+    font-size: 2rem;
+}
+
+.spaceSlika {
+    
+    margin-bottom:20px;
+}
+
+
+.row {
+  padding-right: 0px;
+  margin-right: 0px;
+}
+h1, h2 {
+    font-size:3rem;
+    font-weight:300;
+    color:black !important;
+}
+h3 {
+  
+    color:black !important;
+}
+    
+.mb-5 {
+    
+    margin-bottom: 3.8rem !important;
+}
+    
+a {
+    color: #ec1c24;
+}
+
+</style>
+</head>
+<body> 
+
+<!-- <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+  <a class="navbar-brand" href="#">Navbar</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault"
+    aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home
+          <span class="sr-only">(current)</span>
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Link</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#">Disabled</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true"
+          aria-expanded="false">Dropdown</a>
+        <div class="dropdown-menu" aria-labelledby="dropdown01">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <a class="dropdown-item" href="#">Something else here</a>
+        </div>
+      </li>
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form> 
+  </div>
+</nav> -->
+
+<main>
+
+  <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class=".container-fluid cont-grey">
+        <div class="container">
+      <div class="row">
+       
+      <div class="col-md-6 text-center text-md-left mb-4">
+          <h1 class="display-3 d-none d-lg-block" style="font-size:2rem">Spletna stran v izdelavi</h1><br>
+          <h1 class="d-lg-none" style="font-size:2rem">Spletna stran v izdelavi / Website is under construction</h1>
+      <p class="d-none d-lg-block">Za lažji začetek smo vam pripravili nekaj navodil in usmeritev, s katerimi boste lahko objavili vašo spletno stran.</p>
+      <!-- <p>
+        <a class="btn btn-danger btn-lg" href="#" role="button">Learn more &raquo;</a>
+      </p> -->
+        </div>
+        <div class="col-md-6 text-center">
+       <p><a href="https://www.domovanje.com/?utm_source=hosting&utm_campaign=hosting-underconstruction"><img alt="domovanje" src="https://bazaznanja.controlpanel.si/skeleton/domovanje_logotip.png" class="img-fluid"></a></p>
+          <br>
+          <p style="font-size:20px;">
+              
+              <a class="text-nowrap" style="text-decoration:none !important; color:#000000;" href="mailto:info@domovanje.com" >
+              
+              <img width="28" height="18" style="margin-right: 10px; border-left: 0px solid black; border-right: 0px solid black; border-width: 0px; border-style: solid; border-color: black; color:black!important;"  alt="Mail" src="https://bazaznanja.controlpanel.si/skeleton/icon_help_mail1_red.png">info@domovanje.com  &nbsp;&nbsp;</a> 
+          
+         <a class="text-nowrap" style="text-decoration:none !important; color:#000000;" href="tel:017777888" > <img width="24" height="26" style="margin-right: 6px; border-left: 0px solid black;" alt="Phone" src="https://bazaznanja.controlpanel.si/skeleton/icon_help_phone1_red.png"> 01 77 77 888 </a>
+         
+         </p>
+         
+  
+        </div>
+        </div>
+   
+      </div>
+    </div>
+    
+    
+    
+  
+  <div class="container" style="margin-bottom: 30px;">
+    <div class="row">
+      <div class="col-md-12 mx-auto  text-center">
+          <h2 style="margin-bottom: 20px;" class="display-3 d-sm-block">Izdelajte spletno stran in uredite e-mail predale</h2><img src="https://bazaznanja.controlpanel.si/skeleton/jajca-6-stran.png" class="rounded spaceSlika mx-auto d-block" style="" alt="..."> 
+      <!--  <h2 class="d-block d-sm-none">Izdelajte spletno stran in uredite e-mail predale</h2>-->
+        </div>
+</div>
+</div>
+  <div class="container" style="margin-bottom: 50px;">
+    <!-- Example row of columns -->
+    <div class="row">
+      <div class="col-md-4 content text-center mb-5">
+      
+        <h3><a style="color:black" href='https://www.domovanje.com/podpora/kb/kako-namestim-spletno-aplikacijo-v-orodju-softaculous/?utm_source=hosting&utm_campaign=hosting-underconstruction'>Namestitev Wordpress</a></h3>
+        <p>S spletnimi aplikacijami je vaše življenje veliko bolj enostavno. Wordpress aplikacijo lahko namestite s pomočjo naših slikovnih navodil. 
+        </p>
+
+<div>
+          <a class="btn btn-danger" href="https://www.domovanje.com/podpora/kb/kako-namestim-spletno-aplikacijo-v-orodju-softaculous/?utm_source=hosting&utm_campaign=hosting-underconstruction" role="button">Wordpress Namestitev</a>
+ </div>
+      </div>
+      <div class="col-md-4 content text-center mb-5">
+      <h3><a style="color:black" href='https://www.domovanje.com/podpora/kb/kako-dodam-in-urejam-postne-predale/?utm_source=hosting&utm_campaign=hosting-underconstruction'>Odprite poštne predale</a></h3>
+        <p>Kreirajte poštne predale z imenom vaše domene. Poštne predale dodajte v MacMail, Outlook, telefon ali druge odjemalce e-pošte.
+        </p>
+
+      <div>
+          <a class="btn btn-danger" href="https://www.domovanje.com/podpora/kb/kako-dodam-in-urejam-postne-predale/?utm_source=hosting&utm_campaign=hosting-underconstruction" role="button">Kreiranje e-poštnih predalov</a>
+      </div>
+
+      </div>
+      <div class="col-md-4 content text-center mb-5">  
+     
+        
+        
+         <h3><a style="color:black" href='https://www.domovanje.com/podpora/?utm_source=hosting&utm_campaign=hosting-underconstruction'>Baza znanja</a></h3>
+        <p>Upravljajte z vašim paketom gostovanja, domenami ali kontaktnimi podatki, s pomočjo slikovnih navodil.</p>
+        
+       <div>
+          <a class="btn btn-danger" href="https://www.domovanje.com/podpora/?utm_source=hosting&utm_campaign=hosting-underconstruction" role="button">Navodila</a>
+ </div>
+
+        </div>
+    </div>
+
+    <hr>
+
+  </div>
+  <!-- /container -->
+  
+  
+  <div class="container text-center" style="margin-bottom: 30px;">
+    <div class="row">
+      <div class="col-md-12 mx-auto">
+           <h2 style="margin-bottom: 20px;" class="display-3 d-sm-block">Potrebujete pomoč? Najemite strokovnjaka</h2><img src="https://bazaznanja.controlpanel.si/skeleton/jajca-1-domene.png" class="rounded spaceSlika mx-auto d-block" style="" alt="..."> 
+        <!--<h2 class="d-block d-sm-none">Potrebujete pomoč? Najemite strokovnjaka</h2>-->
+        </div>
+</div>
+    </div>
+  
+  <div class="container text-center">
+    <!-- Example row of columns -->
+    <div class="row">
+      <div class="col-md-4 content mb-5">
+       
+        <h3><a style="color:black" href='https://www.domovanje.com/pomoc-strokovnjaka/pomoc-pri-posti-in-gostovanju/?utm_source=hosting&utm_campaign=hosting-underconstruction#kontakt'>Pomoč pri DNS</a></h3>
+        <p>Naš strokovnjak lahko poveže vašo domeno z Google ali Facebook storitvami ter ponudniki spletnih vsebin.
+        </p>
+        <div>
+        <h3 class="card-title pricing-card-title">od 19,99 €</h3>
+        
+<a class="btn btn-danger" href="https://www.domovanje.com/pomoc-strokovnjaka/pomoc-pri-posti-in-gostovanju/?utm_source=hosting&utm_campaign=hosting-underconstruction#kontakt">Pišite nam</a>
+        </div>
+      </div>
+      <div class="col-md-4 content mb-5">
+        
+         <h3><a style="color:black" href='https://www.domovanje.com/pomoc-strokovnjaka/pomoc-pri-posti-in-gostovanju/?utm_source=hosting&utm_campaign=hosting-underconstruction#kontakt'>Nastavitev e-poštnega odjemalca</a></h3>
+        <p>Povežemo se na vaš računalnik ali telefon in uredimo prejemanje e-pošte.
+        </p>
+        <div>
+        <h3 class="card-title pricing-card-title">od 19,99 €</h3>
+        
+          <a class="btn btn-danger" href="https://www.domovanje.com/pomoc-strokovnjaka/pomoc-pri-posti-in-gostovanju/?utm_source=hosting&utm_campaign=hosting-underconstruction#kontakt"" role="button">Pišite nam</a>
+        </div>
+      </div>
+      <div class="col-md-4 content mb-5">
+       
+        
+        <h3><a style="color:black" href='https://www.domovanje.com/pomoc-strokovnjaka/?utm_source=hosting&utm_campaign=hosting-underconstruction'>Najemite strokovnjaka</a></h3>
+        <p>Namestimo vtičnik ali predlogo vaše spletne strani, uredimo povezavo z zunanjimi servisi za e-pošto in še mnogo več. Preverite naše storitve.</p>
+        
+        <div>
+        <h3 class="card-title pricing-card-title">od 19,99 €</h3>
+       
+          <a class="btn btn-danger" href="https://www.domovanje.com/pomoc-strokovnjaka/?utm_source=hosting&utm_campaign=hosting-underconstruction" role="button">Najemite strokovnjaka</a>
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+  <!-- /container -->
+  
+  
+  
+  
+
+</main>
+</body>
+<footer class="container-fluid cont-grey">
+
+  <!-- Footer Links -->
+    <div class="containe text-center text-md-left">
+
+      <!-- Grid row -->
+      <div class="row">
+
+        <!-- Grid column -->
+        <div class="col-md-12 mt-md-0 mt-3 text-center">
+
+          <!-- Content -->
+          <h5 class="text-uppercase">Namig: Registrirajte vašo domeno tudi z drugimi končnicami</h5>
+          <p>S tem zaščitite svojo blagovno znamko in poskrbite, da konkurenca ne more registrirati iste domene z drugo končnico in vam tako prevzeti strank.</p>
+          <div>
+          <a class="btn btn-danger" href="https://www.domovanje.com/portal/kosarica-iskalnik-domen/goal/domain/?utm_source=hosting&utm_campaign=hosting-underconstruction" role="button">Preverite proste domene</a>
+ </div>
+
+        </div>
+        <!-- Grid column -->
+
+        <hr class="clearfix w-100 d-md-none pb-3">
+ 
+        <!-- Grid column -->
+<!--
+        <div class="col-md-6">
+
+<h5 class="text-uppercase">Oddaljena pomoč</h5>
+            <a href="https://www.teamviewer.com/link/?url=505374&amp;id=1552515893" style="text-decoration:none;"> <img class="img-fluid" src="eeeee.png" alt="Remote Access and Support over the Internet with TeamViewer" title="Remote Access and Support over the Internet with TeamViewer"></a>
+            
+            
+            <ul class="list-inline text-danger">
+  <li class="list-inline-item text-danger"><a href="https://download.teamviewer.com/download/version_11x/teamviewer_qs.tar.gz">Linux </a></li>
+  <li class="list-inline-item"><a href="https://download.teamviewer.com/download/TeamViewerQS.dmg"> Mac OS</a></li>
+  <li class="list-inline-item"><a href="https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market">Android </a></li>
+  <li class="list-inline-item"><a href="https://itunes.apple.com/us/app/teamviewer-quicksupport/id661649585">iOS</a></li>
+</ul>
+
+          </div>
+-->
+          <!-- Grid column -->
+
+          <!-- Grid column -->
+ 
+<!-- 
+<div class="col-md-2 content mb-5">
+<h5 class="text-uppercase">Links</h5>
+<ul class="list-unstyled text-danger">
+              <li>
+                <a class="text-danger" href="#!">Link 1</a>
+              </li>
+              <li>
+                <a class="text-danger" href="#!">Link 2</a>
+              </li>
+              <li>
+                <a class="text-danger" href="#!">Link 3</a>
+              </li>
+              <li>
+                <a class="text-danger" href="#!">Link 4</a>
+              </li>
+            </ul>
+</div> 
+-->
+          
+
+          <!-- Grid column --> 
+
+      </div>
+      <!-- Grid row -->
+
+    </div>
+    <!-- Footer Links -->
+</footer>
+    <!-- Copyright -->
+    
+    <div class="container-fluid">
+    <div class="footer-copyright text-center py-3">© DHH.si d.o.o. - Vse pravice pridržane	| 
+      <a class="text-danger" href="https://www.domovanje.com/?utm_source=hosting&utm_campaign=hosting-underconstruction"> domovanje.com</a>
+    </div>
+    </div>
+    <!-- Copyright -->
+

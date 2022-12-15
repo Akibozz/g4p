@@ -1,0 +1,485 @@
+[10-Sep-2022 17:47:16 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[10-Sep-2022 17:47:16 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[11-Sep-2022 17:06:50 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:06:50 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:06:50 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:06:50 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:07:46 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:07:46 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:07:46 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:07:46 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:08:30 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:08:30 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:08:30 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:08:30 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:09:13 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:09:13 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:09:41 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:09:41 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:09:42 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:09:42 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:09:53 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:09:53 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:09:53 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:09:53 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:10:16 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:10:16 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:10:16 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:10:16 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:10:30 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:10:30 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:10:30 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:10:30 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:10:30 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:10:30 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:10:30 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:10:30 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:10:31 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:10:31 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:10:31 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:10:31 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:10:32 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:10:32 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:10:32 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:10:32 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:10:48 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:10:48 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:10:48 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:10:48 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:16:16 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:16:16 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:16:16 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:16:16 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:16:18 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:16:18 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:16:18 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:16:18 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:16:42 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:16:42 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:16:43 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:16:43 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:16:59 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:16:59 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:16:59 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:16:59 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:17:00 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:17:00 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[11-Sep-2022 17:17:01 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 457
+[11-Sep-2022 17:17:01 UTC] PHP Warning:  A non-numeric value encountered in /home/gravit04/public_html/wp-includes/media.php on line 467
+[26-Sep-2022 11:52:45 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[26-Sep-2022 11:52:45 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[30-Sep-2022 15:29:36 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Unidentified action 954 in /home/gravit04/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:797
+Stack trace:
+#0 /home/gravit04/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/classes/ActionScheduler_QueueCleaner.php(127): ActionScheduler_DBStore->mark_failure('954')
+#1 /home/gravit04/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/classes/ActionScheduler_QueueCleaner.php(141): ActionScheduler_QueueCleaner->mark_failures(300)
+#2 /home/gravit04/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(102): ActionScheduler_QueueCleaner->clean(300)
+#3 /home/gravit04/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/classes/ActionScheduler_QueueRunner.php(127): ActionScheduler_Abst in /home/gravit04/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php on line 797
+[12-Oct-2022 23:14:09 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[12-Oct-2022 23:14:09 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[12-Oct-2022 23:14:38 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[12-Oct-2022 23:14:38 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Oct-2022 15:45:09 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Oct-2022 15:45:09 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Oct-2022 15:56:39 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Oct-2022 15:56:39 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[17-Oct-2022 19:29:23 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[17-Oct-2022 19:29:23 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[17-Oct-2022 19:29:23 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[17-Oct-2022 19:29:23 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[17-Oct-2022 20:38:46 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[17-Oct-2022 20:38:46 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[17-Oct-2022 20:52:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[17-Oct-2022 20:52:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[18-Oct-2022 11:04:34 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[18-Oct-2022 11:04:35 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[18-Oct-2022 11:14:07 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[18-Oct-2022 11:14:07 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[18-Oct-2022 13:08:21 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[18-Oct-2022 13:08:21 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[18-Oct-2022 14:09:26 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[18-Oct-2022 14:09:26 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[23-Oct-2022 20:51:10 UTC] order_date was called incorrectly. Order properties should not be accessed directly. Backtrace: require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::do_wc_ajax, do_action('wc_ajax_checkout'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::checkout, WC_Checkout->process_checkout, WC_Checkout->process_order_payment, WC_Gateway_BACS->process_payment, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_pending_to_on-hold'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails::send_transactional_email, do_action_ref_array('woocommerce_order_status_pending_to_on-hold_notification'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Email_Customer_On_Hold_Order->trigger, WC_Email->get_content, WC_Email_Customer_On_Hold_Order->get_content_html, wc_get_template_html, wc_get_template, include('/plugins/woocommerce/templates/emails/customer-on-hold-order.php'), do_action('woocommerce_email_order_details'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails->order_details, wc_get_template, include('/plugins/woocommerce/templates/emails/email-order-details.php'), do_action('woocommerce_email_before_order_table'), WP_Hook->do_action, WP_Hook->apply_filters, WooCart\UPNalog\UPN->upn_instructions, WooCart\UPNalog\UPN->genUPN, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[23-Oct-2022 20:54:26 UTC] order_date was called incorrectly. Order properties should not be accessed directly. Backtrace: require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::do_wc_ajax, do_action('wc_ajax_checkout'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::checkout, WC_Checkout->process_checkout, WC_Checkout->process_order_payment, WC_Gateway_BACS->process_payment, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_pending_to_on-hold'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails::send_transactional_email, do_action_ref_array('woocommerce_order_status_pending_to_on-hold_notification'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Email_Customer_On_Hold_Order->trigger, WC_Email->get_content, WC_Email_Customer_On_Hold_Order->get_content_html, wc_get_template_html, wc_get_template, include('/plugins/woocommerce/templates/emails/customer-on-hold-order.php'), do_action('woocommerce_email_order_details'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails->order_details, wc_get_template, include('/plugins/woocommerce/templates/emails/email-order-details.php'), do_action('woocommerce_email_before_order_table'), WP_Hook->do_action, WP_Hook->apply_filters, WooCart\UPNalog\UPN->upn_instructions, WooCart\UPNalog\UPN->genUPN, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[23-Oct-2022 20:56:48 UTC] order_date was called incorrectly. Order properties should not be accessed directly. Backtrace: require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::do_wc_ajax, do_action('wc_ajax_checkout'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::checkout, WC_Checkout->process_checkout, WC_Checkout->process_order_payment, WC_Gateway_BACS->process_payment, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_pending_to_on-hold'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails::send_transactional_email, do_action_ref_array('woocommerce_order_status_pending_to_on-hold_notification'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Email_Customer_On_Hold_Order->trigger, WC_Email->get_content, WC_Email_Customer_On_Hold_Order->get_content_html, wc_get_template_html, wc_get_template, include('/plugins/woocommerce/templates/emails/customer-on-hold-order.php'), do_action('woocommerce_email_order_details'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails->order_details, wc_get_template, include('/plugins/woocommerce/templates/emails/email-order-details.php'), do_action('woocommerce_email_before_order_table'), WP_Hook->do_action, WP_Hook->apply_filters, WooCart\UPNalog\UPN->upn_instructions, WooCart\UPNalog\UPN->genUPN, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[23-Oct-2022 21:08:34 UTC] order_date was called incorrectly. Order properties should not be accessed directly. Backtrace: require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::do_wc_ajax, do_action('wc_ajax_checkout'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::checkout, WC_Checkout->process_checkout, WC_Checkout->process_order_payment, WC_Gateway_BACS->process_payment, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_pending_to_on-hold'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails::send_transactional_email, do_action_ref_array('woocommerce_order_status_pending_to_on-hold_notification'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Email_Customer_On_Hold_Order->trigger, WC_Email->get_content, WC_Email_Customer_On_Hold_Order->get_content_html, wc_get_template_html, wc_get_template, include('/plugins/woocommerce/templates/emails/customer-on-hold-order.php'), do_action('woocommerce_email_order_details'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails->order_details, wc_get_template, include('/plugins/woocommerce/templates/emails/email-order-details.php'), do_action('woocommerce_email_before_order_table'), WP_Hook->do_action, WP_Hook->apply_filters, WooCart\UPNalog\UPN->upn_instructions, WooCart\UPNalog\UPN->genUPN, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[26-Oct-2022 13:47:51 UTC] order_date was called incorrectly. Order properties should not be accessed directly. Backtrace: require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::do_wc_ajax, do_action('wc_ajax_checkout'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::checkout, WC_Checkout->process_checkout, WC_Checkout->process_order_payment, WC_Gateway_BACS->process_payment, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_pending_to_on-hold'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails::send_transactional_email, do_action_ref_array('woocommerce_order_status_pending_to_on-hold_notification'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Email_Customer_On_Hold_Order->trigger, WC_Email->get_content, WC_Email_Customer_On_Hold_Order->get_content_html, wc_get_template_html, wc_get_template, include('/plugins/woocommerce/templates/emails/customer-on-hold-order.php'), do_action('woocommerce_email_order_details'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails->order_details, wc_get_template, include('/plugins/woocommerce/templates/emails/email-order-details.php'), do_action('woocommerce_email_before_order_table'), WP_Hook->do_action, WP_Hook->apply_filters, WooCart\UPNalog\UPN->upn_instructions, WooCart\UPNalog\UPN->genUPN, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[05-Nov-2022 23:44:47 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[05-Nov-2022 23:44:47 UTC] Cron unschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[08-Nov-2022 08:40:35 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[08-Nov-2022 12:56:06 UTC] order_date was called incorrectly. Order properties should not be accessed directly. Backtrace: require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::do_wc_ajax, do_action('wc_ajax_checkout'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::checkout, WC_Checkout->process_checkout, WC_Checkout->process_order_payment, WC_Gateway_BACS->process_payment, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_pending_to_on-hold'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails::send_transactional_email, do_action_ref_array('woocommerce_order_status_pending_to_on-hold_notification'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Email_Customer_On_Hold_Order->trigger, WC_Email->get_content, WC_Email_Customer_On_Hold_Order->get_content_html, wc_get_template_html, wc_get_template, include('/plugins/woocommerce/templates/emails/customer-on-hold-order.php'), do_action('woocommerce_email_order_details'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails->order_details, wc_get_template, include('/plugins/woocommerce/templates/emails/email-order-details.php'), do_action('woocommerce_email_before_order_table'), WP_Hook->do_action, WP_Hook->apply_filters, WooCart\UPNalog\UPN->upn_instructions, WooCart\UPNalog\UPN->genUPN, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[14-Nov-2022 22:08:24 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'remove_my_account_tabs' not found or invalid function name in /home/gravit04/public_html/wp-includes/class-wp-hook.php on line 310
+[14-Nov-2022 22:08:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/myaccount/navigation.php on line 27
+[14-Nov-2022 22:08:27 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'remove_my_account_tabs' not found or invalid function name in /home/gravit04/public_html/wp-includes/class-wp-hook.php on line 310
+[14-Nov-2022 22:08:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/myaccount/navigation.php on line 27
+[14-Nov-2022 22:08:45 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'remove_my_account_tabs' not found or invalid function name in /home/gravit04/public_html/wp-includes/class-wp-hook.php on line 310
+[14-Nov-2022 22:08:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/myaccount/navigation.php on line 27
+[14-Nov-2022 22:09:18 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'remove_my_account_tabs' not found or invalid function name in /home/gravit04/public_html/wp-includes/class-wp-hook.php on line 310
+[14-Nov-2022 22:09:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/myaccount/navigation.php on line 27
+[14-Nov-2022 22:26:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/myaccount/navigation.php on line 27
+[14-Nov-2022 22:26:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/myaccount/navigation.php on line 27
+[14-Nov-2022 22:26:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/myaccount/navigation.php on line 27
+[14-Nov-2022 22:26:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/myaccount/navigation.php on line 27
+[15-Nov-2022 10:19:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 207
+[15-Nov-2022 10:20:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 207
+[15-Nov-2022 10:20:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 207
+[15-Nov-2022 10:21:30 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 207
+[15-Nov-2022 10:22:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 207
+[15-Nov-2022 20:50:44 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[15-Nov-2022 20:50:44 UTC] Cron unschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[16-Nov-2022 18:34:39 UTC] Cron reschedule event error for hook: rocket_preload_process_pending, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"rocket_preload_process_pending","args":[],"interval":60}
+[16-Nov-2022 18:34:39 UTC] Cron reschedule event error for hook: rocket_rucss_pending_jobs, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"rocket_rucss_pending_jobs","args":[],"interval":60}
+[16-Nov-2022 18:34:39 UTC] Cron unschedule event error for hook: rocket_rucss_pending_jobs, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"rocket_rucss_pending_jobs","args":[],"interval":60}
+[16-Nov-2022 21:51:18 UTC] Cron reschedule event error for hook: action_scheduler_run_queue_rucss, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[16-Nov-2022 21:51:18 UTC] Cron reschedule event error for hook: rocket_rucss_pending_jobs, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"rocket_rucss_pending_jobs","args":[],"interval":60}
+[16-Nov-2022 21:51:18 UTC] Cron reschedule event error for hook: rocket_preload_process_pending, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"rocket_preload_process_pending","args":[],"interval":60}
+[16-Nov-2022 22:13:20 UTC] Cron reschedule event error for hook: rocket_rucss_pending_jobs, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"rocket_rucss_pending_jobs","args":[],"interval":60}
+[17-Nov-2022 16:05:50 UTC] Cron reschedule event error for hook: action_scheduler_run_queue_rucss, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Nov-2022 17:13:31 UTC] Cron unschedule event error for hook: woocommerce_cancel_unpaid_orders, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":false,"args":[]}
+[17-Nov-2022 17:13:31 UTC] Cron reschedule event error for hook: rocket_rucss_pending_jobs, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"rocket_rucss_pending_jobs","args":[],"interval":60}
+[17-Nov-2022 17:13:31 UTC] Cron unschedule event error for hook: rocket_rucss_pending_jobs, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"rocket_rucss_pending_jobs","args":[],"interval":60}
+[17-Nov-2022 18:29:57 UTC] Cron reschedule event error for hook: rocket_rucss_pending_jobs, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"rocket_rucss_pending_jobs","args":[],"interval":60}
+[17-Nov-2022 18:29:57 UTC] Cron unschedule event error for hook: rocket_rucss_pending_jobs, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"rocket_rucss_pending_jobs","args":[],"interval":60}
+[17-Nov-2022 18:31:57 UTC] Cron reschedule event error for hook: action_scheduler_run_queue_rucss, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Nov-2022 21:03:26 UTC] Cron reschedule event error for hook: rocket_purge_time_event, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"rocket_expired_cache_cron_interval","args":[],"interval":3600}
+[23-Nov-2022 16:02:01 UTC] order_date was called incorrectly. Order properties should not be accessed directly. Backtrace: require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::do_wc_ajax, do_action('wc_ajax_checkout'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::checkout, WC_Checkout->process_checkout, WC_Checkout->process_order_payment, WC_Gateway_BACS->process_payment, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_pending_to_on-hold'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails::send_transactional_email, do_action_ref_array('woocommerce_order_status_pending_to_on-hold_notification'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Email_Customer_On_Hold_Order->trigger, WC_Email->get_content, WC_Email_Customer_On_Hold_Order->get_content_html, wc_get_template_html, wc_get_template, include('/plugins/woocommerce/templates/emails/customer-on-hold-order.php'), do_action('woocommerce_email_order_details'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails->order_details, wc_get_template, include('/plugins/woocommerce/templates/emails/email-order-details.php'), do_action('woocommerce_email_before_order_table'), WP_Hook->do_action, WP_Hook->apply_filters, WooCart\UPNalog\UPN->upn_instructions, WooCart\UPNalog\UPN->genUPN, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[23-Nov-2022 16:06:03 UTC] order_date was called incorrectly. Order properties should not be accessed directly. Backtrace: require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::do_wc_ajax, do_action('wc_ajax_checkout'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::checkout, WC_Checkout->process_checkout, WC_Checkout->process_order_payment, WC_Gateway_BACS->process_payment, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_pending_to_on-hold'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails::send_transactional_email, do_action_ref_array('woocommerce_order_status_pending_to_on-hold_notification'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Email_Customer_On_Hold_Order->trigger, WC_Email->get_content, WC_Email_Customer_On_Hold_Order->get_content_html, wc_get_template_html, wc_get_template, include('/plugins/woocommerce/templates/emails/customer-on-hold-order.php'), do_action('woocommerce_email_order_details'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails->order_details, wc_get_template, include('/plugins/woocommerce/templates/emails/email-order-details.php'), do_action('woocommerce_email_before_order_table'), WP_Hook->do_action, WP_Hook->apply_filters, WooCart\UPNalog\UPN->upn_instructions, WooCart\UPNalog\UPN->genUPN, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[23-Nov-2022 16:31:10 UTC] order_date was called incorrectly. Order properties should not be accessed directly. Backtrace: require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::do_wc_ajax, do_action('wc_ajax_checkout'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::checkout, WC_Checkout->process_checkout, WC_Checkout->process_order_payment, WC_Gateway_BACS->process_payment, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_pending_to_on-hold'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails::send_transactional_email, do_action_ref_array('woocommerce_order_status_pending_to_on-hold_notification'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Email_Customer_On_Hold_Order->trigger, WC_Email->get_content, WC_Email_Customer_On_Hold_Order->get_content_html, wc_get_template_html, wc_get_template, include('/plugins/woocommerce/templates/emails/customer-on-hold-order.php'), do_action('woocommerce_email_order_details'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails->order_details, wc_get_template, include('/plugins/woocommerce/templates/emails/email-order-details.php'), do_action('woocommerce_email_before_order_table'), WP_Hook->do_action, WP_Hook->apply_filters, WooCart\UPNalog\UPN->upn_instructions, WooCart\UPNalog\UPN->genUPN, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[27-Nov-2022 19:01:43 UTC] order_date was called incorrectly. Order properties should not be accessed directly. Backtrace: require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::do_wc_ajax, do_action('wc_ajax_checkout'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::checkout, WC_Checkout->process_checkout, WC_Checkout->process_order_payment, WC_Gateway_BACS->process_payment, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_pending_to_on-hold'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails::send_transactional_email, do_action_ref_array('woocommerce_order_status_pending_to_on-hold_notification'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Email_Customer_On_Hold_Order->trigger, WC_Email->get_content, WC_Email_Customer_On_Hold_Order->get_content_html, wc_get_template_html, wc_get_template, include('/plugins/woocommerce/templates/emails/customer-on-hold-order.php'), do_action('woocommerce_email_order_details'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails->order_details, wc_get_template, include('/plugins/woocommerce/templates/emails/email-order-details.php'), do_action('woocommerce_email_before_order_table'), WP_Hook->do_action, WP_Hook->apply_filters, WooCart\UPNalog\UPN->upn_instructions, WooCart\UPNalog\UPN->genUPN, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[05-Dec-2022 11:33:29 UTC] order_date was called incorrectly. Order properties should not be accessed directly. Backtrace: require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::do_wc_ajax, do_action('wc_ajax_checkout'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::checkout, WC_Checkout->process_checkout, WC_Checkout->process_order_payment, WC_Gateway_BACS->process_payment, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_pending_to_on-hold'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails::send_transactional_email, do_action_ref_array('woocommerce_order_status_pending_to_on-hold_notification'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Email_Customer_On_Hold_Order->trigger, WC_Email->get_content, WC_Email_Customer_On_Hold_Order->get_content_html, wc_get_template_html, wc_get_template, include('/plugins/woocommerce/templates/emails/customer-on-hold-order.php'), do_action('woocommerce_email_order_details'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails->order_details, wc_get_template, include('/plugins/woocommerce/templates/emails/email-order-details.php'), do_action('woocommerce_email_before_order_table'), WP_Hook->do_action, WP_Hook->apply_filters, WooCart\UPNalog\UPN->upn_instructions, WooCart\UPNalog\UPN->genUPN, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[05-Dec-2022 12:14:00 UTC] order_date was called incorrectly. Order properties should not be accessed directly. Backtrace: require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::do_wc_ajax, do_action('wc_ajax_checkout'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::checkout, WC_Checkout->process_checkout, WC_Checkout->process_order_payment, WC_Gateway_BACS->process_payment, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_pending_to_on-hold'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails::send_transactional_email, do_action_ref_array('woocommerce_order_status_pending_to_on-hold_notification'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Email_Customer_On_Hold_Order->trigger, WC_Email->get_content, WC_Email_Customer_On_Hold_Order->get_content_html, wc_get_template_html, wc_get_template, include('/plugins/woocommerce/templates/emails/customer-on-hold-order.php'), do_action('woocommerce_email_order_details'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails->order_details, wc_get_template, include('/plugins/woocommerce/templates/emails/email-order-details.php'), do_action('woocommerce_email_before_order_table'), WP_Hook->do_action, WP_Hook->apply_filters, WooCart\UPNalog\UPN->upn_instructions, WooCart\UPNalog\UPN->genUPN, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[05-Dec-2022 16:08:58 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[05-Dec-2022 16:08:58 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[06-Dec-2022 18:21:46 UTC] order_date was called incorrectly. Order properties should not be accessed directly. Backtrace: require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::do_wc_ajax, do_action('wc_ajax_checkout'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::checkout, WC_Checkout->process_checkout, WC_Checkout->process_order_payment, WC_Gateway_BACS->process_payment, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_pending_to_on-hold'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails::send_transactional_email, do_action_ref_array('woocommerce_order_status_pending_to_on-hold_notification'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Email_Customer_On_Hold_Order->trigger, WC_Email->get_content, WC_Email_Customer_On_Hold_Order->get_content_html, wc_get_template_html, wc_get_template, include('/plugins/woocommerce/templates/emails/customer-on-hold-order.php'), do_action('woocommerce_email_order_details'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails->order_details, wc_get_template, include('/plugins/woocommerce/templates/emails/email-order-details.php'), do_action('woocommerce_email_before_order_table'), WP_Hook->do_action, WP_Hook->apply_filters, WooCart\UPNalog\UPN->upn_instructions, WooCart\UPNalog\UPN->genUPN, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[06-Dec-2022 18:36:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gravit04/public_html/wp-content/plugins/woocommerce-upn-1.0.0/index.php:35) in /home/gravit04/public_html/wp-includes/functions.php on line 6865
+[06-Dec-2022 19:24:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_id() on null in /home/gravit04/public_html/wp-content/plugins/woocommerce-upn-1.0.0/index.php:45
+Stack trace:
+#0 /home/gravit04/public_html/wp-content/plugins/woocommerce-upn-1.0.0/index.php(154): WooCart\UPNalog\UPN->genUPN(NULL)
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): WooCart\UPNalog\UPN->upn_page(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#2 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/order/order-details-customer.php(64): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#6 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/order/order-detail in /home/gravit04/public_html/wp-content/plugins/woocommerce-upn-1.0.0/index.php on line 45
+[06-Dec-2022 19:25:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_id() on null in /home/gravit04/public_html/wp-content/plugins/woocommerce-upn-1.0.0/index.php:45
+Stack trace:
+#0 /home/gravit04/public_html/wp-content/plugins/woocommerce-upn-1.0.0/index.php(154): WooCart\UPNalog\UPN->genUPN(NULL)
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): WooCart\UPNalog\UPN->upn_page(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#2 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/order/order-details-customer.php(64): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#6 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/order/order-detail in /home/gravit04/public_html/wp-content/plugins/woocommerce-upn-1.0.0/index.php on line 45
+[06-Dec-2022 19:44:49 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[06-Dec-2022 19:44:49 UTC] Cron reschedule event error for hook: rocket_preload_process_pending, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"rocket_preload_process_pending","args":[],"interval":60}
+[06-Dec-2022 19:44:49 UTC] Cron unschedule event error for hook: rocket_preload_process_pending, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"rocket_preload_process_pending","args":[],"interval":60}
+[06-Dec-2022 21:37:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 227
+[06-Dec-2022 21:37:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 227
+[06-Dec-2022 21:37:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 227
+[06-Dec-2022 21:37:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 227
+[06-Dec-2022 21:37:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 227
+[06-Dec-2022 21:37:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 227
+[06-Dec-2022 21:40:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 227
+[06-Dec-2022 21:49:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:226
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 226
+[06-Dec-2022 21:49:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:226
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 226
+[06-Dec-2022 21:52:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:226
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 226
+[06-Dec-2022 21:55:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_variables() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:226
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/p in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 226
+[06-Dec-2022 21:55:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_variables() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:226
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/p in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 226
+[06-Dec-2022 21:55:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_variables() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:226
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/p in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 226
+[06-Dec-2022 22:41:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Woo_Variation_Swatches_frontend() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/pu in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 227
+[06-Dec-2022 22:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Woo_Variation_Swatches_frontend() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/pu in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 227
+[06-Dec-2022 22:42:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Woo_Variation_Swatches_frontend() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/pu in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 227
+[06-Dec-2022 22:44:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_variations() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/ in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 227
+[06-Dec-2022 22:45:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Woo_Variation_Swatches_Frontend() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/pu in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 227
+[06-Dec-2022 22:45:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Woo_Variation_Swatches_Frontend() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/pu in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 227
+[06-Dec-2022 22:49:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_variables() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:229
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravit04/p in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 229
+[06-Dec-2022 22:50:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_variable_items() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:228
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravi in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 228
+[06-Dec-2022 22:50:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_variable_items() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:228
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravi in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 228
+[06-Dec-2022 22:52:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_variable_items() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:228
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): update_price_on_quantity_change('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php(15): do_action('woocommerce_bef...')
+#4 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/gravit04/...')
+#5 /home/gravit04/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3061): wc_get_template('single-product/...')
+#6 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): woocommerce_single_variation_add_to_cart_button('')
+#7 /home/gravi in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 228
+[07-Dec-2022 14:56:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_elementor_pro() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:220
+Stack trace:
+#0 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): enqueue_scripts_for_woocommerce_ajax_price_refresh('')
+#1 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/gravit04/public_html/wp-includes/script-loader.php(2180): do_action('wp_enqueue_scri...')
+#4 /home/gravit04/public_html/wp-includes/class-wp-hook.php(308): wp_enqueue_scripts('')
+#5 /home/gravit04/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#6 /home/gravit04/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home/gravit04/public_html/wp-includes/general-template.php(3043): do_action('wp_head')
+#8 /home/gravit04/public_html/wp-content/themes/astra/header.php(26): wp_head()
+#9 /home/gravit04/publi in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 220
+[08-Dec-2022 14:41:27 UTC] order_date was called incorrectly. Order properties should not be accessed directly. Backtrace: require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::do_wc_ajax, do_action('wc_ajax_checkout'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::checkout, WC_Checkout->process_checkout, WC_Checkout->process_order_payment, WC_Gateway_BACS->process_payment, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_pending_to_on-hold'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails::send_transactional_email, do_action_ref_array('woocommerce_order_status_pending_to_on-hold_notification'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Email_Customer_On_Hold_Order->trigger, WC_Email->get_content, WC_Email_Customer_On_Hold_Order->get_content_html, wc_get_template_html, wc_get_template, include('/plugins/woocommerce/templates/emails/customer-on-hold-order.php'), do_action('woocommerce_email_order_details'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Emails->order_details, wc_get_template, include('/plugins/woocommerce/templates/emails/email-order-details.php'), do_action('woocommerce_email_before_order_table'), WP_Hook->do_action, WP_Hook->apply_filters, WooCart\UPNalog\UPN->upn_instructions, WooCart\UPNalog\UPN->genUPN, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[09-Dec-2022 11:29:12 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[09-Dec-2022 11:29:12 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[09-Dec-2022 11:32:25 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:32:25 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:32:25 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:32:26 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:32:26 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:32:26 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:32:28 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:32:28 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:32:28 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:32:29 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:32:29 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:32:29 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:55:30 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:55:30 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:55:30 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:55:31 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:55:31 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:55:31 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:55:35 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:55:35 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:55:35 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:55:37 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:55:37 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:55:37 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:59:14 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:59:14 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:59:14 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:59:15 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:59:15 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:59:15 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:59:17 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:59:17 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:59:17 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:59:18 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:59:18 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[09-Dec-2022 11:59:18 UTC] The WC_Order_Item_Coupon::offsetGet function is deprecated since version 4.4.0.
+[11-Dec-2022 22:14:52 UTC] Cron reschedule event error for hook: rocket_preload_process_pending, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"rocket_preload_process_pending","args":[],"interval":60}
+[11-Dec-2022 22:14:52 UTC] Cron unschedule event error for hook: rocket_preload_process_pending, Error code: could_not_set, Error message: Seznama dogodkov cron ni bilo mogoče shraniti., Data: {"schedule":"rocket_preload_process_pending","args":[],"interval":60}
+[13-Dec-2022 12:17:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function git_updater_upload() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:3
+Stack trace:
+#0 /home/gravit04/public_html/wp-settings.php(585): include()
+#1 /home/gravit04/public_html/wp-config.php(98): require_once('/home/gravit04/...')
+#2 /home/gravit04/public_html/wp-load.php(50): require_once('/home/gravit04/...')
+#3 /home/gravit04/public_html/wp-blog-header.php(13): require_once('/home/gravit04/...')
+#4 /home/gravit04/public_html/index.php(17): require('/home/gravit04/...')
+#5 {main}
+  thrown in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 3
+[13-Dec-2022 12:18:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gravit04/public_html/wp-content/themes/astra/functions.php:6) in /home/gravit04/public_html/wp-includes/pluggable.php on line 1416
+[13-Dec-2022 12:18:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gravit04/public_html/wp-content/themes/astra/functions.php:6) in /home/gravit04/public_html/wp-includes/pluggable.php on line 1419
+[13-Dec-2022 12:18:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function git_updater_upload() in /home/gravit04/public_html/wp-content/themes/astra/functions.php:3
+Stack trace:
+#0 /home/gravit04/public_html/wp-settings.php(585): include()
+#1 /home/gravit04/public_html/wp-config.php(98): require_once('/home/gravit04/...')
+#2 /home/gravit04/public_html/wp-load.php(50): require_once('/home/gravit04/...')
+#3 /home/gravit04/public_html/wp-blog-header.php(13): require_once('/home/gravit04/...')
+#4 /home/gravit04/public_html/index.php(17): require('/home/gravit04/...')
+#5 {main}
+  thrown in /home/gravit04/public_html/wp-content/themes/astra/functions.php on line 3
+[13-Dec-2022 12:21:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gravit04/public_html/wp-content/themes/astra/functions.php:6) in /home/gravit04/public_html/wp-includes/pluggable.php on line 1416
+[13-Dec-2022 12:21:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gravit04/public_html/wp-content/themes/astra/functions.php:6) in /home/gravit04/public_html/wp-includes/pluggable.php on line 1419
+[13-Dec-2022 12:40:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gravit04/public_html/wp-content/themes/astra/functions.php:6) in /home/gravit04/public_html/wp-includes/pluggable.php on line 1416
+[13-Dec-2022 12:40:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gravit04/public_html/wp-content/themes/astra/functions.php:6) in /home/gravit04/public_html/wp-includes/pluggable.php on line 1419
+[13-Dec-2022 12:41:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gravit04/public_html/wp-content/themes/astra/functions.php:6) in /home/gravit04/public_html/wp-includes/pluggable.php on line 1416
+[13-Dec-2022 12:41:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gravit04/public_html/wp-content/themes/astra/functions.php:6) in /home/gravit04/public_html/wp-includes/pluggable.php on line 1419
+[13-Dec-2022 12:41:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gravit04/public_html/wp-content/themes/astra/functions.php:1) in /home/gravit04/public_html/wp-includes/pluggable.php on line 1416
+[13-Dec-2022 12:41:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gravit04/public_html/wp-content/themes/astra/functions.php:1) in /home/gravit04/public_html/wp-includes/pluggable.php on line 1419
